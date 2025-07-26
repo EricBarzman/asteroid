@@ -2,8 +2,7 @@
 
 ### En C++
 
-Le code ci-dessous a été réalisé sous la tutelle de One_Loner_Coder.
-Il utilise d'ailleurs le moteur graphique et de jeu PixelGameEngine.
+Le code ci-dessous a été réalisé en utilisant le moteur graphique et de jeu PixelGameEngine, de One_Loner_Coder.
 
 Il ne s'agit donc pas tant d'un projet personnel qu'un preuve d'une *travail d'apprentissage* en `C++`.
 
